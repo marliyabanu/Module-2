@@ -18,7 +18,8 @@ print(binary_representation)
 
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bbb712c-05b4-4851-9517-deda9b7c1b16" />
+<img width="1601" height="416" alt="image" src="https://github.com/user-attachments/assets/4456c8db-92e2-4b98-9bf3-17953277b820" />
+
 
 ## Result
 A Python program to convert the number **16** into its **binary representation** using built-in Python functions is excuted sucessful.
