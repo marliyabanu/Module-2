@@ -17,7 +17,7 @@ print("Sum:", f(a, b))
 
 
 ## Output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63061cc7-4749-4fd5-b7b2-8b3e199e5608" />
+<img width="1422" height="407" alt="image" src="https://github.com/user-attachments/assets/aea70570-62eb-48aa-aa56-b77b61231609" />
 
 
 ## Result
