@@ -20,7 +20,7 @@ result(a, b)
 
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25dead75-6f7c-4633-93c1-4613b1dbb191" />
+<img width="1251" height="335" alt="image" src="https://github.com/user-attachments/assets/50158ee9-557f-4875-a2a9-f3155d05adad" />
 
 
 ## Result
